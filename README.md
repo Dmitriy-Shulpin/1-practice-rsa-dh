@@ -14,11 +14,13 @@
 
 ```bash
 python rsa/rsa_gui.py
+```
 
 ### Диффи-Хелман
 
 ```bash
 python diffie_hellman/dh_final.py
+```
 
 **Автор**
 
