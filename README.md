@@ -13,7 +13,7 @@
 ### RSA
 
 ```bash
-python rsa/rsa_gui.py
+python rsa/rsa_final.py
 ```
 
 ### Диффи-Хелман
